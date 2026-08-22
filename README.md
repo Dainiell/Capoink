@@ -1,17 +1,28 @@
-# trackersales_app
+# Capoink - Tally Sales Mobile Tracker
 
-A new Flutter project.
+A cross-platform mobile app that helps small enterprise owners track and analyze sales across multiple businesses and years with no monthly or annual subscription required.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🏢 **Multi-Business Management**: Create and manage unlimited business profiles under a single account
+- 🔍 **Optical Character Recognition (OCR)**: Scan items to automatically log and add them to your sales
+  > **Note:** OCR requires a product image to be uploaded first before it can recognize and log an item. This feature is also currently limited to single-device use it is not supported when multiple devices are accessing the same business account simultaneously.
+- 📱 **Responsive Design**: Works seamlessly across smartphones, tablets, and iPads
+- 🧩 **Home Screen Widgets**: Track real-time sales for all your businesses right from your home screen
+- 🖼️ **Product Image Recognition**: Attach a photo of your product so the scanner can identify and log it automatically
+- 🖐️ **Manual Entry Mode**: Skip the scanner entirely and add items and sales manually with a single tap
+- 💵 **Multi-Currency Support**: Currently supports PHP and USD, with more currencies planned in future updates
 
-A few resources to get you started if this is your first Flutter project:
+## How It Works
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+1. **Add your business name**: Set up a profile to organize sales by business
+2. **Add item name**: Label your products for easy tracking
+3. **Add item add-ons**: Attach optional extras to specific items
+4. **Set your price**: Define pricing so the app calculates sales accurately
+5. **Enable OCR (optional)**: Turn on scanning anytime for hands-free item entry. Requires a product image to be uploaded beforehand, and works on a single device at a time
+6. **View total sales**: See accurate, up-to-date sales figures at a glance
+7. **Add home screen widgets**: Monitor real-time sales across all your businesses without opening the app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Why Capoink
+
+Most sales tracking apps today lock core features behind recurring subscriptions. Capoink was built to give small enterprise owners a permanent, no-cost way to track and analyze their sales no matter how many businesses they run or how far back their data goes.
