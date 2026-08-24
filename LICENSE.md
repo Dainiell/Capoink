@@ -12,7 +12,7 @@ You may only view, copy, and redistribute the original, unmodified material in a
 
 Restrictions:
 
-You may not use the material for commercial purposes. You may not modify, adapt, or create derivative works based on the material. You may not distribute, publish, or share any modified or derivative versions of the application. No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+You may not use the material for commercial purposes. You may not modify, adapt, or create derivative works based on the material. You may not distribute, publish, or share any modified or derivative versions of the application. No additional restrictions You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Notices:
 
