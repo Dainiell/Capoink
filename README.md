@@ -4,11 +4,11 @@ A cross-platform mobile app that helps small enterprise owners track and analyze
 
 ## Features
 
-- 🏢 **Multi-Business Management**: Create and manage unlimited business profiles under a single account
+- 🧩 **Home Screen Widgets**: Track real-time sales for all your businesses right from your home screen
 - 🔍 **Optical Character Recognition (OCR)**: Scan items to automatically log and add them to your sales
   > **Note:** OCR requires a product image to be uploaded first before it can recognize and log an item. This feature is also currently limited to single-device use it is not supported when multiple devices are accessing the same business account simultaneously.
+- 🏢 **Multi-Business Management**: Create and manage unlimited business profiles under a single account
 - 📱 **Responsive Design**: Works seamlessly across smartphones, tablets, and iPads
-- 🧩 **Home Screen Widgets**: Track real-time sales for all your businesses right from your home screen
 - 🖼️ **Product Image Recognition**: Attach a photo of your product so the scanner can identify and log it automatically
 - 🖐️ **Manual Entry Mode**: Skip the scanner entirely and add items and sales manually with a single tap
 - 💵 **Multi-Currency Support**: Currently supports PHP and USD, with more currencies planned in future updates
