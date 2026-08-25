@@ -1,6 +1,6 @@
 # Capoink - Tally Sales Mobile Tracker
 
-A cross-platform mobile app that helps small enterprise owners track and analyze sales across multiple businesses. No monthly or annual subscription required.
+A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. No monthly or annual subscription required.
 
 ## Features
 
