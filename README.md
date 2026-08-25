@@ -10,7 +10,6 @@ A cross-platform mobile app that helps small enterprise owners track and analyze
 - 🧩 **Home Screen Widgets**: Track real-time sales for all your businesses right from your home screen
 - 🏢 **Multi-Business Management**: Create and manage unlimited business profiles under a single account
 - 📱 **Responsive Design**: Works seamlessly across smartphones, tablets, and iPads
-- 🖼️ **Product Image Recognition**: Attach a photo of your product so the scanner can identify and log it automatically
 - 🖐️ **Manual Entry Mode**: Skip the scanner entirely and add items and sales manually with a single tap
 - 💵 **Multi-Currency Support**: Currently supports PHP and USD, with more currencies planned in future updates
 
