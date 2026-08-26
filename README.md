@@ -5,12 +5,13 @@ A cross-platform mobile app that helps business owners track and analyze sales a
 - 🧩 **Home Screen Widgets:** Real-time sales for all your businesses, right from your home screen
 - 🏢 **Multi-Business Management:** Unlimited business profiles under a single account
 - 🖼️ **Attach Image:** creating your product with perfect images
-- 🎨 **Custom Social Filters:** Auto-generated Instagram and Facebook story filters styled with your business logo and name
+- 🎨 **Custom Social Filters:** Instagram and Facebook story filters styled with your business logo and name
 - 📱 **Responsive Design:** Works on smartphones, tablets, and iPads
 - 💵 **Multi-Currency Support:** PHP and USD now, more coming
 - 👥 **Flexible Team Roles:** Own a business, join a team, or both, same account
 - 📦 **Inventory & Stock Monitoring:** Per-item/variant stock tracking to catch discrepancies
 - 🧾 **Payment Method Tagging:** Every sale labeled by how it was paid
+- 🔤 **Support Multiple Language:** Supports English,Tagalog,Chinese
 
 ## Onboarding
 Roles are per-business, not per-account. The same account can own one business and be a team member on another.
