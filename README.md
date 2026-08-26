@@ -1,5 +1,5 @@
 # Capoink - Sales & Inventory Tracker
-A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. One-time purchase of ₱150, no recurring fees.
+A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. One-time purchase of ₱115, no recurring fees.
 
 ## Features
 - 🧩 **Home Screen Widgets:** Real-time sales for all your businesses, right from your home screen
@@ -77,4 +77,4 @@ Capoink generates custom Instagram and Facebook story filters based on each busi
 10. **Add your team** *(optional):* Generate an invite code and bring in staff to record sales for you, in real time
 
 ## Why Capoink
-Most sales tracking apps lock core features behind recurring subscriptions. Capoink gives small enterprise owners a one-time ₱150 purchase for full access to track and analyze sales, no matter how many businesses they run, how far back their data goes, or how many people help run it.
+Most sales tracking apps lock core features behind recurring subscriptions. Capoink gives small enterprise owners a one-time ₱115 purchase for full access to track and analyze sales, no matter how many businesses they run, how far back their data goes, or how many people help run it.
