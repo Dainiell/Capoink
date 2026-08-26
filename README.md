@@ -1,4 +1,4 @@
-# Capoink - Tally Sales Mobile Tracker
+# Capoink - Sales & Inventory Tracker
 A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. One-time purchase of ₱150, no recurring fees.
 
 ## Features
