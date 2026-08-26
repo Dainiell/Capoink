@@ -1,12 +1,11 @@
 # Capoink - Tally Sales Mobile Tracker
-
-A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. No monthly or annual subscription required.
+A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. One-time purchase of ₱150, no recurring fees.
 
 ## Features
-
 - 🧩 **Home Screen Widgets:** Real-time sales for all your businesses, right from your home screen
 - 🏢 **Multi-Business Management:** Unlimited business profiles under a single account
 - 🖼️ **Attach Image:** creating your product with perfect images
+- 🎨 **Custom Social Filters:** Auto-generated Instagram and Facebook story filters styled with your business logo and name
 - 📱 **Responsive Design:** Works on smartphones, tablets, and iPads
 - 🖐️ **Manual Entry Mode:** Add items and sales manually, no scanner needed
 - 💵 **Multi-Currency Support:** PHP and USD now, more coming
@@ -15,18 +14,15 @@ A cross-platform mobile app that helps business owners track and analyze sales a
 - 🧾 **Payment Method Tagging:** Every sale labeled by how it was paid
 
 ## Onboarding
-
 Roles are per-business, not per-account. The same account can own one business and be a team member on another.
 
 **On signup, pick:**
-
 - 🚀 **Start a Business:** become its Owner
 - 🤝 **Join a Business:** enter an invite code to join a team
 
 A Team Member can start their own business anytime. Nothing locks the account into one path.
 
 ## Roles (per business)
-
 **Owner**
 - Creates the business
 - Generates/revokes team invite codes
@@ -45,7 +41,6 @@ A Team Member can start their own business anytime. Nothing locks the account in
 - Needs Owner approval to get Edit Access
 
 ## How Team Invites Work
-
 1. Owner taps **Add Team** on a business profile
 2. App generates a random, single-use invite code for that business
 3. Owner shares the code with the person joining
@@ -53,13 +48,11 @@ A Team Member can start their own business anytime. Nothing locks the account in
 5. Owner can remove or promote them anytime
 
 ## Inventory & Stock Monitoring
-
 - Tracks stock per item and per variant (e.g. T-shirt: Small 12, Medium 8)
 - Kept separate from the sales log
 - Owner cross-checks stock vs. recorded sales to catch mismatches, no need to be on-site
 
 **Edit access flow:**
-
 - Team Members: view-only by default
 - Team Member sends an **Edit Access Request** (e.g. after a delivery)
 - Owner approves or denies
@@ -67,11 +60,12 @@ A Team Member can start their own business anytime. Nothing locks the account in
 - Manager: standing edit access until revoked
 
 ## Payment Method Tagging
-
 Every sale is tagged with how it was paid: Cash, GCash, Maya, Bank Transfer, and more. Owners see not just how much they sold, but how customers paid, per item, per business.
 
-## How It Works (Core Flow)
+## Custom Social Filters
+Capoink generates custom Instagram and Facebook story filters based on each business's logo and name, giving owners a ready-to-use branded filter for their social promotions.
 
+## How It Works (Core Flow)
 1. **Choose your path:** Start a Business (Owner) or Join a Business (Team Member)
 2. **Add your business name:** Set up a profile to organize sales by business
 3. **Add your business logo:** Set up your business profile to recognize it easily
@@ -84,5 +78,4 @@ Every sale is tagged with how it was paid: Cash, GCash, Maya, Bank Transfer, and
 10. **Add your team** *(optional):* Generate an invite code and bring in staff to record sales for you, in real time
 
 ## Why Capoink
-
-Most sales tracking apps lock core features behind recurring subscriptions. Capoink gives small enterprise owners a permanent, no-cost way to track and analyze sales, no matter how many businesses they run, how far back their data goes, or how many people help run it.
+Most sales tracking apps lock core features behind recurring subscriptions. Capoink gives small enterprise owners a one-time ₱150 purchase for full access to track and analyze sales, no matter how many businesses they run, how far back their data goes, or how many people help run it.
