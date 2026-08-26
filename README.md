@@ -6,6 +6,7 @@ A cross-platform mobile app that helps business owners track and analyze sales a
 
 - 🧩 **Home Screen Widgets:** Real-time sales for all your businesses, right from your home screen
 - 🏢 **Multi-Business Management:** Unlimited business profiles under a single account
+- 🖼️ **Attach Image:** creating your product with perfect images
 - 📱 **Responsive Design:** Works on smartphones, tablets, and iPads
 - 🖐️ **Manual Entry Mode:** Add items and sales manually, no scanner needed
 - 💵 **Multi-Currency Support:** PHP and USD now, more coming
