@@ -7,7 +7,6 @@ A cross-platform mobile app that helps business owners track and analyze sales a
 - 🖼️ **Attach Image:** creating your product with perfect images
 - 🎨 **Custom Social Filters:** Auto-generated Instagram and Facebook story filters styled with your business logo and name
 - 📱 **Responsive Design:** Works on smartphones, tablets, and iPads
-- 🖐️ **Manual Entry Mode:** Add items and sales manually, no scanner needed
 - 💵 **Multi-Currency Support:** PHP and USD now, more coming
 - 👥 **Flexible Team Roles:** Own a business, join a team, or both, same account
 - 📦 **Inventory & Stock Monitoring:** Per-item/variant stock tracking to catch discrepancies
