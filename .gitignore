@@ -53,7 +53,7 @@ app.*.map.json
 env.dart
 secrets.dart
 
-# Keystores and Certificates (Para sa Android Signing)
+# Keystores and Certificates 
 *.keystore
 *.jks
 *.p12
