@@ -1,24 +1,24 @@
 # Capoink - Sales & Inventory Tracker
-A cross-platform mobile app that helps business owners track and analyze sales across multiple businesses. no recurring fees.
+A native iOS app that helps business owners track and analyze sales across multiple businesses. No recurring fees.
 
 ## Features
 - 🧩 **Home Screen Widgets:** Real-time sales for all your businesses, right from your home screen
 - 🏢 **Multi-Business Management:** Unlimited business profiles under a single account
-- 🖼️ **Attach Image:** creating your product with perfect images
+- 🖼️ **Attach Image:** Creating your product with perfect images
 - 🎨 **Custom Social Filters:** Instagram and Facebook story filters styled with your business logo and name
 - 📱 **Responsive Design:** Works on smartphones, tablets, and iPads
 - 💵 **Multi-Currency Support:** PHP and USD now, more coming
 - 👥 **Flexible Team Roles:** Own a business, join a team, or both, same account
 - 📦 **Inventory & Stock Monitoring:** Per-item/variant stock tracking to catch discrepancies
 - 🧾 **Payment Method Tagging:** Every sale labeled by how it was paid
-- 🔤 **Support Multiple Language:** Supports English,Tagalog,Chinese
+- 🔤 **Support Multiple Language:** Supports English, Tagalog, Chinese
 
 ## Onboarding
 Roles are per-business, not per-account. The same account can own one business and be a team member on another.
 
 **On signup, pick:**
-- 🚀 **Start a Business:** become its Owner
-- 🤝 **Join a Business:** enter an invite code to join a team
+- 🚀 **Start a Business:** Become its Owner
+- 🤝 **Join a Business:** Enter an invite code to join a team
 
 A Team Member can start their own business anytime. Nothing locks the account into one path.
 
