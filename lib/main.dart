@@ -6,10 +6,11 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Color(0xFFDE8787),
         body: Align(
-          alignment: Alignment(0.0, -0.0),
+          alignment: Alignment(0.0, -0.7),
           child:
               Text(
                     "Welcome to Capoink",
@@ -22,8 +23,8 @@ void main() {
                   .animate()
                   .fadeIn(duration: 800.ms)
                   .blurXY(begin: 8, end: 0, duration: 800.ms),
-        ),
-      ),
-    ),
+        ), // Align
+      ), // Scaffold
+    ), // MaterialApp
   );
 }
