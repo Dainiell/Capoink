@@ -32,6 +32,7 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/welcome_icon.png
     - assets/welcomeICON.png
     - assets/icons/app-icon.png
 
