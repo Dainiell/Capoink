@@ -39,7 +39,7 @@ void main() {
                     ],
                   )
                   .animate()
-                  .fadeIn(duration: 800.ms)
+                  .fadeIn(duration: 600.ms)
                   .blurXY(begin: 8, end: 0, duration: 800.ms),
         ),
       ),
