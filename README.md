@@ -7,7 +7,7 @@ Capoink is a mobile application built with Flutter and Dart, designed to help bu
 - 🏢 **Multi-Business Management**: Create and switch between multiple business profiles under a single account.
 - 🖼️ **Business Branding**: Personalize each business profile with a dedicated logo for clear visual identification.
 - 📝 **Service & Product Catalog**: Add product and service names with pricing through a straightforward interface.
-- 💰 **Expense & Deduction Tracking**: Log business supplies and daily operational costs to monitor net revenue accurately.
+- 💰 **Expense & Deduction Tracking**: Log business supplies and daily operational costs to monitor net revenue.
 - 📊 **Historical Financial Data**: Access independent, multi-year transaction records for each business profile.
 - 🧾 **Quick Point of Sale**: Select a service or item, input the transaction amount, and log the sale instantly.
 
