@@ -24,6 +24,6 @@ Capoink is a mobile application built with Flutter and Dart, designed to help bu
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,supabase,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=sqlite,supabase,flutter" />
   </a>
 </p>
