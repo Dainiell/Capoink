@@ -33,9 +33,12 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/welcome_icon.png
-    - assets/welcomeICON.png
     - assets/icons/app-icon.png
-    - assets/animations/Pigy Bank.json 
+    - assets/animations/pigybank.json 
+    - assets/coinsbg.jpg
+    - assets/welcomeicon.png
+    - assets/belowicon.png
+
+
 
   
