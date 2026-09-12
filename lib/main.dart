@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:flutter_animate/flutter_animate.dart';
+import 'package:lottie/lottie.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -9,40 +8,23 @@ void main() {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         backgroundColor: Color(0xFFFFFFFF),
-        body: Align(
-          alignment: Alignment(-0.0, -0.0),
-          child:
-              Row(
-                    mainAxisSize: MainAxisSize.min,
-                    crossAxisAlignment: CrossAxisAlignment.center,
-                    children: [
-                      Text(
-                        "CAP",
-                        style: GoogleFonts.inter(
-                          fontSize: 24,
-                          fontWeight: FontWeight.w800,
-                          color: Color(0xFF000000),
-                        ),
-                      ),
-                      Image.asset(
-                        'assets/welcome_icon.png',
-                        height: 65,
-                      ),
-                      Text(
-                        "INK",
-                        style: GoogleFonts.inter(
-                          fontSize: 24,
-                          fontWeight: FontWeight.w800,
-                          color: Color(0xFF000000),
-                        ),
-                      ),
-                    ],
-                  )
-                  .animate()
-                  .fadeIn(duration: 600.ms)
-                  .blurXY(begin: 8, end: 0, duration: 800.ms),
-        ),
+        body: WelcomeLoading(),
       ),
     ),
   );
+}
+
+class WelcomeLoading extends StatelessWidget {
+  const WelcomeLoading({super.key});
+
+  @override
+  Widget build(context) {
+    return Center(
+      child: Lottie.asset(
+        'assets/animations/Pigy Bank.json',
+        width: 200,
+        height: 200,
+      ),
+    );
+  }
 }
