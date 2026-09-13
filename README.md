@@ -1,6 +1,6 @@
 # Capoink Sales & Expense Tracker
 
-Capoink is a mobile application built with Flutter and Dart, designed to help business owners track sales, log operating expenses, and maintain a reliable transaction history across multiple business ventures.
+Capoink is a native iOS application built with Swift and SwiftUI, designed to help business owners track sales, log operating expenses, and maintain a reliable transaction history across multiple business ventures.
 
 ## Core Features
 
